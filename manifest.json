@@ -1,6 +1,6 @@
 {
-    "name": "My Extension",
-    "description": "Mi primer extension",
+    "name": "Fantasy basketball team average",
+    "description": "Fantasy basketball ESPN teams average",
     "version": "1.0",
     "manifest_version": 3,
     "action": {
