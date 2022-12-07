@@ -1,0 +1,23 @@
+{
+    "name": "My Extension",
+    "description": "Mi primer extension",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+        "default_icon": "/images/icon/logo.png"
+    },
+    "icons":{
+        "16": "/images/icon/logo.png",
+        "32": "/images/icon/logo.png",
+        "48": "/images/icon/logo.png",
+        "128": "/images/icon/logo.png"
+    },
+    "author": "TimoBel",
+    "content_scripts": [
+        {
+          "matches": ["https://fantasy.espn.com/basketball/team?leagueId=*"],   
+          "css": [ "style.css" ],
+          "js": ["content-script.js"]
+        }
+      ]
+}

@@ -1,0 +1,21 @@
+.playersRow {
+    color: rgb(121, 123, 125);
+    text-align: left;
+    font-size: 12px;
+    padding-right: 8px;
+    padding-left: 6px;
+    height: 41px;
+    width: 60px;
+    line-height: 19px;
+    border-bottom: 1px solid #f1f2f3;
+}
+
+.statsRow{
+    color: rgb(121, 123, 125);
+    padding-right: 8px;
+    padding-left: 6px;
+    font-size: 12px;
+    line-height: 19px;
+    height: 41px;
+    border-bottom: 1px solid #f1f2f3;
+}
