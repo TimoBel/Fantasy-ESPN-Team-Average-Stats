@@ -1,8 +1,9 @@
 # Fantasy-ESPN-Team-Average-Stats
 
-This chrome extension will only work for espn standard leagues (9 cat, 10 starters) and will give you the average of any team in your league.
+This chrome extension will only work for espn standard leagues (9 cat) and will give you the average of any team in your league.
 
-![image](https://user-images.githubusercontent.com/62485715/206301090-d617ef11-afa0-4656-811a-172f2f3e9b6c.png)
+
+![Captura](https://user-images.githubusercontent.com/62485715/207163021-b665b932-f104-45a1-ad96-c30fc5bfb26d.PNG)
 
 
 To install it:
