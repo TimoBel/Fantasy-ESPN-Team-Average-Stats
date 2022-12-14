@@ -69,11 +69,11 @@ window.onload = function(){
         var avgTOTotal = getAvgStat(turnOvers, 1, 0);
         var avgPointsTotal = getAvgStat(points, 1, 0);
 
-        var playersRow = playersTable.insertRow(12);
+        var playersRow = playersTable.insertRow(minutes.length-benchsPlayers.length+1);
         var cell1 = playersRow.insertCell(0);
         cell1.innerHTML = "AVG";
 
-        var playersRowTotal = playersTable.insertRow(16);
+        var playersRowTotal = playersTable.insertRow(minutes.length+2);
         var cell1Total = playersRowTotal.insertCell(0);
         cell1Total.innerHTML = "AVG Total";
 
